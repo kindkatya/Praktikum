@@ -33,7 +33,7 @@ Connection: close.
 ![image](https://user-images.githubusercontent.com/90453727/144664583-5fba9d45-6624-449a-8c89-6805f6bd789d.png)
 
 Вся работа с подключением выведена в отдельный поток. Например две вкладки одновременно открыты
-![image](https://user-images.githubusercontent.com/90453727/144665031-0d618f3f-feca-42b1-ac21-22c4a04aec0a.png)
+![image](https://user-images.githubusercontent.com/90270843/146605757-d99defb0-0182-489b-9b5c-a31a0ad5db0a.png)
 
 
 ![image](https://user-images.githubusercontent.com/90453727/144665004-53388dc9-609a-43e9-9cf1-e45ae0dbfef9.png)
