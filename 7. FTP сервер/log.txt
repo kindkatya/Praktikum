@@ -1,7 +1,94 @@
-������������ ���� 6666
+Прослушиваем порт 6666
 request: katya\=loginkatya=password\=cur_dir0=file_sizels
 response: 
 request: katya\=loginkatya=password\=cur_dir0=file_sizemkdir kate
 response: successfully
 request: katya\=loginkatya=password\=cur_dir0=file_sizels
 response: kate
+request: katya\=loginkatya=password\=cur_dir0=file_sizermtree kate
+response: successfully
+request: katya\=loginkatya=password\=cur_dir0=file_sizetouch 123.txt
+response: successfully
+request: katya\=loginkatya=password\=cur_dir0=file_sizerename 123.txt 456.txt
+response: successfully
+request: katya\=loginkatya=password\=cur_dir0=file_sizeremove 456.txt
+response: successfully
+request: katya\=loginkatya=password\=cur_dir0=file_sizemkdir serverfolder
+response: successfully
+request: katya\=loginkatya=password\=cur_dir6217=file_sizesend_file serverfolder/1.xlsx
+Has been received
+response: uploaded successfully
+request: katya\=loginkatya=password\=cur_dir0=file_sizecd server/folder
+response: \
+request: katya\=loginkatya=password\=cur_dir0=file_sizels
+response: serverfolder
+request: katya\=loginkatya=password\=cur_dir0=file_sizecd serverfolder
+response: serverfolder\
+request: katya\=loginkatya=passwordserverfolder\=cur_dir0=file_sizels
+Прослушиваем порт 6666
+request: katya=loginkatya=password\=cur_dir0=file_sizels
+response: serverfolder
+request: katya=loginkatya=password\=cur_dir0=file_sizecd serverfolder
+response: \serverfolder\
+request: katya=loginkatya=password\serverfolder\=cur_dir0=file_sizels
+response: 1.xlsx
+request: katya=loginkatya=password\serverfolder\=cur_dir0=file_sizeget_file 1.xlsx
+Has been sent
+response: b'$$STREAM_FILE_END_FLAG$$'
+request: katya=loginkatya=password\serverfolder\=cur_dir0=file_sizecd ..
+response: \
+request: katya=loginkatya=password\=cur_dir0=file_sizecd ../
+response: \
+request: katya=loginkatya=password\=cur_dir0=file_sizecd ...
+response: \
+request: katya=loginkatya=password\=cur_dir0=file_sizeдщпшт
+response: bad request
+request: katya=loginkatya=password\=cur_dir0=file_sizelogin
+response: bad request
+Прослушиваем порт 6666
+request: katya=loginkatya=password\=cur_dir0=file_sizermdir
+response: bad request
+request: katya=loginkatya=password\=cur_dir0=file_sizesendfile 1.pdf
+response: bad request
+request: katya=loginkatya=password\=cur_dir0=file_sizemkdir test
+response: successfully
+request: katya=loginkatya=password\=cur_dir0=file_sizemkdir 33
+response: successfully
+request: katya=loginkatya=password\=cur_dir0=file_sizesend_test 123.pdf
+response: bad request
+request: katya=loginkatya=password\=cur_dir0=file_sizemkdir test1
+response: successfully
+request: katya=loginkatya=password\=cur_dir0=file_sizecd ...../test1
+response: \
+request: katya=loginkatya=password\=cur_dir0=file_sizecd ./test1
+response: \test1\
+request: katya=loginkatya=password\test1\=cur_dir0=file_sizemkdir ../test1/test11
+response: successfully
+request: katya=loginkatya=password\test1\=cur_dir0=file_sizels
+response: test11
+request: katya=loginkatya=password\test1\=cur_dir0=file_sizepwd
+response: \test1\
+request: katya=loginkatya=password\test1\=cur_dir0=file_sizermtree test11
+response: successfully
+request: katya=loginkatya=password\test1\=cur_dir0=file_sizels
+response: 
+request: katya=loginkatya=password\test1\=cur_dir0=file_sizetouch 1.txt
+response: successfully
+request: katya=loginkatya=password\test1\=cur_dir0=file_sizerename 1.txt 2.txt
+response: successfully
+request: katya=loginkatya=password\test1\=cur_dir0=file_sizels
+response: 2.txt
+request: katya=loginkatya=password\test1\=cur_dir0=file_sizeremove 1.txt
+response: Invalid path
+request: katya=loginkatya=password\test1\=cur_dir0=file_sizecat 1.txt
+response: Invalid path
+request: katya=loginkatya=password\test1\=cur_dir0=file_sizecat 2.txt
+response: 
+request: katya=loginkatya=password\test1\=cur_dir0=file_sizecd ////
+
+response: \
+request: katya=loginkatya=password\=cur_dir0=file_sizepwd
+response: \
+request: katya=loginkatya=password\=cur_dir0=file_sizecd /
+
+response: \
