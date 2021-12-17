@@ -30,11 +30,11 @@
 
 Создание и переименование далее
 Переименовать файл;
-![image](https://user-images.githubusercontent.com/90453727/144824926-bf700d21-9f20-4283-8a9f-d008ffcaee98.png)
-![image](https://user-images.githubusercontent.com/90453727/144824953-4b8c024e-88d2-4202-8e56-89b3abfeadcb.png)
-![image](https://user-images.githubusercontent.com/90453727/144825088-1c3b359d-a89d-4fd4-bb95-c9b4bf54dc35.png)
-![image](https://user-images.githubusercontent.com/90453727/144825099-ba3da88f-0f3f-48fa-b1e3-0a471b88148c.png)
-![image](https://user-images.githubusercontent.com/90453727/144825148-a6ea8ff5-878a-40cc-9790-906c7b47f7f2.png)
+![image](https://user-images.githubusercontent.com/90270843/146608756-0cb4650f-ad0a-41cd-823b-6ac97eaa1a1a.png)
+![image](https://user-images.githubusercontent.com/90270843/146608796-c1615df1-0c5d-4be9-aeb5-e90faae67341.png)
+![image](https://user-images.githubusercontent.com/90270843/146608859-9b3eabbb-1db0-49a2-bf0d-ba93f855736e.png)
+![image](https://user-images.githubusercontent.com/90270843/146608895-3846bc63-be4b-4e78-93c2-7abf3976c3ce.png)
+![image](https://user-images.githubusercontent.com/90270843/146608931-dc448d62-85a1-4f65-8ead-0330efdabaff.png)
 Удалить файл;
 ![image](https://user-images.githubusercontent.com/90453727/144825224-b0752cee-cc91-41e2-8e10-f649c8dd51e8.png)
 ![image](https://user-images.githubusercontent.com/90453727/144825254-f7391680-d2bb-4f78-a38d-09f28b0e7021.png)
