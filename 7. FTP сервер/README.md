@@ -43,17 +43,17 @@
 
 
 Скопировать файл с клиента на сервер;
-![image](https://user-images.githubusercontent.com/90453727/144825466-227c4bd6-162d-4e22-8355-4e1a4752d8a1.png)
-![image](https://user-images.githubusercontent.com/90453727/144825496-e637886e-10b1-46e6-ac6f-15ec8480ce83.png)
+![image](https://user-images.githubusercontent.com/90270843/146609712-c1103eb4-99e0-484e-b5a5-e23a661d1d3f.png)
+![image](https://user-images.githubusercontent.com/90270843/146609748-0e67d233-ef16-40c6-80df-5e48df766a3d.png)
 
 
 Скопировать файл с сервера на клиент;
-![image](https://user-images.githubusercontent.com/90453727/144826140-8bcfacf4-5358-4e4e-b92a-d858eec412ca.png)
-![image](https://user-images.githubusercontent.com/90453727/144826183-36a2f05f-0e78-4a35-8328-ff84970d9503.png)
+![image](https://user-images.githubusercontent.com/90270843/146610064-76f84759-88aa-4845-83bf-61f65feae12d.png)
+![image](https://user-images.githubusercontent.com/90270843/146610136-b5b88a21-b584-41b0-ad4e-44e73b813c23.png)
 
 
 Клиент запущен в корневой директории сервера поэтому получается, что скопировали в рабобую директорию клиент, которая является и рабочей директорией сервера
-![image](https://user-images.githubusercontent.com/90453727/144826249-c57b1c06-dc83-438d-8685-c61d30d70d56.png)
+![image](https://user-images.githubusercontent.com/90270843/146610182-afc6caeb-a746-4cca-968f-dcb045db2417.png)
 
 
 Выход (отключение клиента от сервера);
