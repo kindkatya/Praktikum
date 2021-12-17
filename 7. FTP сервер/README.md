@@ -35,9 +35,11 @@
 ![image](https://user-images.githubusercontent.com/90270843/146608859-9b3eabbb-1db0-49a2-bf0d-ba93f855736e.png)
 ![image](https://user-images.githubusercontent.com/90270843/146608895-3846bc63-be4b-4e78-93c2-7abf3976c3ce.png)
 ![image](https://user-images.githubusercontent.com/90270843/146608931-dc448d62-85a1-4f65-8ead-0330efdabaff.png)
+
 Удалить файл;
-![image](https://user-images.githubusercontent.com/90453727/144825224-b0752cee-cc91-41e2-8e10-f649c8dd51e8.png)
-![image](https://user-images.githubusercontent.com/90453727/144825254-f7391680-d2bb-4f78-a38d-09f28b0e7021.png)
+
+![image](https://user-images.githubusercontent.com/90270843/146609180-9ebbb825-c4cb-4c72-ac4b-ca34ed659d27.png)
+![image](https://user-images.githubusercontent.com/90270843/146609206-7dd6f76a-b0a6-454d-b6cf-c15e1b39a789.png)
 
 
 Скопировать файл с клиента на сервер;
