@@ -24,8 +24,7 @@ Connection: close.
 Создайте файл настроек вашего веб-сервера, в котором можно задать прослушиваемый порт, рабочую директорию, максимальный объем запроса в байтах. Можете добавить собственные настройки по желанию. Файл настроек в формате JSON
 
 ![image](https://user-images.githubusercontent.com/90453727/144664373-f8d8e7aa-9163-4abf-9d66-103059a577cd.png)
-
-![image](https://user-images.githubusercontent.com/90453727/144664494-a4eb5189-9bcc-4537-ac59-2613ffdcb62d.png)
+![image](https://user-images.githubusercontent.com/90270843/146605309-a029371e-d7ed-4548-8ac2-66400fd9fe18.png)
 
 Если файл не найден, сервер передает в сокет специальный код ошибки - 404.
 ![image](https://user-images.githubusercontent.com/90453727/144664536-fb9cf420-de3a-46a0-8b66-b922e6edd35f.png)
