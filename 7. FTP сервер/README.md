@@ -1,20 +1,23 @@
 # Основные задания:
 
-Посмотреть содержимое папки; Верхнее окно - клиент, нижнее - сервер.
-![image](https://user-images.githubusercontent.com/90453727/144823256-16c4cf36-eba5-4ca9-b6c6-30f382824bdd.png)
-![image](https://user-images.githubusercontent.com/90453727/144823584-2628b869-051b-44c0-a7c6-1443411427cb.png)
+Посмотреть содержимое папки; 
+клиент
+![image](https://user-images.githubusercontent.com/90270843/146607988-5157e492-5d94-4dc6-a4bf-e22e09d023da.png)
+сервер
+![image](https://user-images.githubusercontent.com/90270843/146608057-6b9a50ec-c20f-407c-8968-885ddc6d4677.png)
+
 
 Создать папку;
-![image](https://user-images.githubusercontent.com/90453727/144823630-90353de9-3750-4001-9b05-87bfda73e1d3.png)
-![image](https://user-images.githubusercontent.com/90453727/144823649-deb2dfe4-15db-4894-9ddd-e81c6e312fcd.png)
-![image](https://user-images.githubusercontent.com/90453727/144823690-f65074fe-3f86-4215-a5c9-2e4206cdd047.png)
+![image](https://user-images.githubusercontent.com/90270843/146608131-73a976c7-23cb-47dd-8eaa-c480e7c9dc6e.png)
+![image](https://user-images.githubusercontent.com/90270843/146608190-b3a5f22f-5975-489e-acda-c62c9199de6f.png)
+
 
 
 Домашняя папка пользователя
-![image](https://user-images.githubusercontent.com/90453727/144823816-65979100-f512-4fdc-ae76-d3760de5347e.png)
+![image](https://user-images.githubusercontent.com/90270843/146608354-628e70d3-df63-4443-af60-70eb6f09a221.png)
 
 В ней созданная нами
-![image](https://user-images.githubusercontent.com/90453727/144823837-fdcb3bde-dd65-4d5d-a5a0-c8f09fcd8192.png)
+![image](https://user-images.githubusercontent.com/90270843/146608247-db0c5c7a-b2f7-45ba-9610-a2fb5a80c0e8.png)
 
 
 Удалить папку;
