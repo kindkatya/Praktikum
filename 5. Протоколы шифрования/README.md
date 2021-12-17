@@ -36,9 +36,10 @@ csv файл с ключами сервера
 
 Модифицируйте код FTP-сервера таким образом, чтобы он поддерживал шифрование.
 ftp_client.py
-![image](https://user-images.githubusercontent.com/90453727/144820044-1caef197-9ab6-4635-8388-3ed1c5c4e8da.png)
+![image](https://user-images.githubusercontent.com/90270843/146566384-fd1e8934-5320-4921-b538-b3b69d1b5388.png)
 ftp_server.py
-![image](https://user-images.githubusercontent.com/90453727/144820116-6a1f0dc1-d147-4972-b78c-f2d49c0e377c.png)
+![image](https://user-images.githubusercontent.com/90270843/146566424-61847d6d-b794-4625-a919-ffbb7aa2ec85.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/90453727/144819732-b8614a92-170f-4ffa-8930-cd8bf786b828.png)
