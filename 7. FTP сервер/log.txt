@@ -1,0 +1,7 @@
+Прослушиваем порт 6666
+request: katya\=loginkatya=password\=cur_dir0=file_sizels
+response: 
+request: katya\=loginkatya=password\=cur_dir0=file_sizemkdir kate
+response: successfully
+request: katya\=loginkatya=password\=cur_dir0=file_sizels
+response: kate
