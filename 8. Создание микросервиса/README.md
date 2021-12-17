@@ -13,15 +13,14 @@
 
 
 Пароль хранится в хешированном виде (с солью)
-
-![image](https://user-images.githubusercontent.com/90453727/144666867-a96f791e-3a7e-4be2-ae06-b37b566cf3dd.png)
+![image](https://user-images.githubusercontent.com/90270843/146616865-0f03253e-0bfc-40b4-9c9f-9cc898e945f6.png)
 
 
 Информация по пользователям хранится в виде коллекций с помощью модуля pickle
-![image](https://user-images.githubusercontent.com/90453727/144666899-b03f8426-9c1d-425b-884a-f634a138aee7.png)
+![image](https://user-images.githubusercontent.com/90270843/146616909-f7d7ee2d-92c5-428d-83f9-cf8250e174c6.png)
 
 Проверка на существующего пользователя
-![image](https://user-images.githubusercontent.com/90453727/144667797-98666d19-fba9-4513-b4a2-57d03049b1de.png)
+![image](https://user-images.githubusercontent.com/90270843/146616944-2b00b39b-f6ee-4d4c-a8dc-ec5c2feb114d.png)
 
 
 Все данные принимаются и отдаются в формате .JSON
