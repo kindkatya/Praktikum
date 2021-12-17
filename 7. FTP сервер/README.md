@@ -8,6 +8,7 @@
 
 
 Создать папку;
+
 ![image](https://user-images.githubusercontent.com/90270843/146608131-73a976c7-23cb-47dd-8eaa-c480e7c9dc6e.png)
 ![image](https://user-images.githubusercontent.com/90270843/146608190-b3a5f22f-5975-489e-acda-c62c9199de6f.png)
 
@@ -21,9 +22,10 @@
 
 
 Удалить папку;
-![image](https://user-images.githubusercontent.com/90453727/144823938-880a9e13-4095-47e3-9439-312078b7c38d.png)
-![image](https://user-images.githubusercontent.com/90453727/144823979-27e07f00-75c8-4811-8736-0c5dd4a6ba4a.png)
-![image](https://user-images.githubusercontent.com/90453727/144823954-6c60771c-e4e2-4852-8128-c184089d39d6.png)
+
+![image](https://user-images.githubusercontent.com/90270843/146608563-72652f9c-2b3b-4e70-8ffa-43380355d586.png)
+![image](https://user-images.githubusercontent.com/90270843/146608594-2aceeaa9-0a97-4330-b92a-db9d83a686cc.png)
+![image](https://user-images.githubusercontent.com/90270843/146608630-f5cac95c-827f-4eb6-a930-8d2cc45a9d07.png)
 
 
 Создание и переименование далее
