@@ -29,7 +29,7 @@ csv файл с ключами сервера
 ![image](https://user-images.githubusercontent.com/90453727/144819041-9e1cc893-059d-48ea-b517-ac8dd3513d90.png)
 
 
-После подключения клиента они переключились на новый (рандомный) порт и продолжают общение на нем
+После подключения клиента они переключились на новый порт и продолжают общение на нем
 ![image](https://user-images.githubusercontent.com/90453727/144819072-93306ee1-fe60-43c4-8790-a84737799a63.png)
 ![image](https://user-images.githubusercontent.com/90453727/144819149-f0ff662b-31c0-4ce0-b127-a7483aca2050.png)
 
