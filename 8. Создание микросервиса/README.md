@@ -25,12 +25,14 @@
 
 
 Все данные принимаются и отдаются в формате .JSON
-![image](https://user-images.githubusercontent.com/90453727/146440890-5d165973-498c-46ec-8506-584c4a9facbe.png)
+
+<img width="1262" alt="2" src="https://user-images.githubusercontent.com/90270843/146614296-e1a6f960-b626-4304-ab85-1cecf94e960f.png">
 
 
 
 Например зарегистрировали и попробуем залогиниться
-![image](https://user-images.githubusercontent.com/90453727/146440962-b8f4dcab-b888-4e0a-a373-523915ce4485.png)
+
+<img width="1199" alt="3" src="https://user-images.githubusercontent.com/90270843/146614513-d9371117-5c06-4fee-8d06-9e002af6c2b0.png">
 
 
 
